@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bs4BlurG4VQ=",
+  "success": false,
+  "projectFilePath": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\UrlShrt.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Identity.Abstractions. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org",
+      "projectPath": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\UrlShrt.Domain.csproj",
+      "filePath": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\UrlShrt.Domain.csproj",
+      "libraryId": "Microsoft.AspNetCore.Identity.Abstractions",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

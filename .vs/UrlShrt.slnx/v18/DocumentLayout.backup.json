@@ -1,0 +1,1201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backend\\UrlShrt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\appservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\appservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\appservices\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\appservices\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\appservices\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\appservices\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\data\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\data\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\urlshrt.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\urlshrt.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\urlshrt.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\urlshrt.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\urlshrt.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\urlshrt.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\urlshrt.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\urlshrt.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\repositories\\urlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\repositories\\urlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\repositories\\urlclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\repositories\\urlclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\apikeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\apikeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\urlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\repositories\\apikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\repositories\\apikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\appservices\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\appservices\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|c:\\backend\\urlshrt\\urlshrt.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DA22CE4-6D67-4D27-A5E7-3AAD4279C3E6}|UrlShrt.API\\UrlShrt.API.csproj|solutionrelative:urlshrt.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\useragentparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\useragentparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|c:\\backend\\urlshrt\\urlshrt.infrastructure\\data\\configurations\\shortenedurlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19984F39-1AE4-468E-B7DB-3F2A2C210873}|UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj|solutionrelative:urlshrt.infrastructure\\data\\configurations\\shortenedurlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\validators\\url\\urlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\validators\\url\\urlvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\validators\\auth\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\validators\\auth\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\interfaces\\iapikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\interfaces\\iapikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\interfaces\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\interfaces\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\apikey\\apikeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\apikey\\apikeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\admin\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\analytics\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\analytics\\analyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\url\\urlresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\url\\urlresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\url\\createurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\url\\createurldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\common\\models\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\common\\models\\paginationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\common\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\common\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|c:\\backend\\urlshrt\\urlshrt.application\\common\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428341E-158D-4ACC-A9F1-EF4F0880EBD9}|UrlShrt.Application\\UrlShrt.Application.csproj|solutionrelative:urlshrt.application\\common\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\services\\iuseragentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\services\\iuseragentparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\repositories\\iapikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\repositories\\iapikeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\repositories\\iurlclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\repositories\\iurlclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\repositories\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\repositories\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\enums\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\enums\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\enums\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\enums\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\urlanalytic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\urlanalytic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\urlclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\urlclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|c:\\backend\\urlshrt\\urlshrt.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B987ED-FBFA-4093-9D40-4C76C926DC64}|UrlShrt.Domain\\UrlShrt.Domain.csproj|solutionrelative:urlshrt.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlShrt.Domain",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\UrlShrt.Domain.csproj",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\UrlShrt.Domain.csproj",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\UrlShrt.Domain.csproj",
+              "RelativeToolTip": "UrlShrt.Domain\\UrlShrt.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T16:47:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrlShrt.Application",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\UrlShrt.Application.csproj",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\UrlShrt.Application.csproj",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\UrlShrt.Application.csproj",
+              "RelativeToolTip": "UrlShrt.Application\\UrlShrt.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T16:47:16.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\Seeders\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Data\\Seeders\\DataSeeder.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\Seeders\\DataSeeder.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Data\\Seeders\\DataSeeder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:21:53.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AdminService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\AppServices\\AdminService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AdminService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\AppServices\\AdminService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:38:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\AppServices\\AnalyticsService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AnalyticsService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\AppServices\\AnalyticsService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:36:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Program.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Program.cs",
+              "RelativeToolTip": "UrlShrt.API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:32:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AuthService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\AppServices\\AuthService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\AuthService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\AppServices\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:35:56.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrlShrt.API",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\UrlShrt.API.csproj",
+              "RelativeDocumentMoniker": "UrlShrt.API\\UrlShrt.API.csproj",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\UrlShrt.API.csproj",
+              "RelativeToolTip": "UrlShrt.API\\UrlShrt.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T16:47:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrlShrt.Infrastructure",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\UrlShrt.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T16:47:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:42:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:19:22.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrlClickRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\UrlClickRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Repositories\\UrlClickRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\UrlClickRepository.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Repositories\\UrlClickRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:24:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:30:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrlRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\UrlRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Repositories\\UrlRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\UrlRepository.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Repositories\\UrlRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:23:54.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:25:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:25:58.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:42:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiKeyController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\ApiKeyController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\ApiKeyController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\ApiKeyController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\ApiKeyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:42:30.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:42:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\RedirectController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:41:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UrlController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\UrlController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\UrlController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\UrlController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\UrlController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:41:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:40:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "UrlShrt.API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:40:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiKeyRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\ApiKeyRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Repositories\\ApiKeyRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\ApiKeyRepository.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Repositories\\ApiKeyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:39:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiKeyService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\ApiKeyService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\AppServices\\ApiKeyService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\AppServices\\ApiKeyService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\AppServices\\ApiKeyService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:38:07.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "UrlShrt.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "UrlShrt.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:33:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShrt.API\\appsettings.json",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.API\\appsettings.json",
+              "RelativeToolTip": "UrlShrt.API\\appsettings.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T16:31:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserAgentParserService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\UserAgentParserService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\UserAgentParserService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\UserAgentParserService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\UserAgentParserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:26:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Services\\CacheService.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:25:02.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:22:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShortenedUrlConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Infrastructure\\Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Infrastructure\\Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "RelativeToolTip": "UrlShrt.Infrastructure\\Data\\Configurations\\ShortenedUrlConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:21:03.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:18:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:08:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UrlValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Validators\\Url\\UrlValidator.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Validators\\Url\\UrlValidator.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Validators\\Url\\UrlValidator.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Validators\\Url\\UrlValidator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:08:20.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:07:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:06:48.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IApiKeyService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IApiKeyService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Interfaces\\IApiKeyService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IApiKeyService.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Interfaces\\IApiKeyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:06:23.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IAnalyticsService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAnalyticsService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Interfaces\\IAnalyticsService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAnalyticsService.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Interfaces\\IAnalyticsService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:05:55.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUrlService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IUrlService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Interfaces\\IUrlService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IUrlService.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Interfaces\\IUrlService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:05:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:04:55.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApiKeyDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\ApiKey\\ApiKeyDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\ApiKey\\ApiKeyDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\ApiKey\\ApiKeyDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\ApiKey\\ApiKeyDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:04:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminUserDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Admin\\AdminUserDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Admin\\AdminUserDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Admin\\AdminUserDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Admin\\AdminUserDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:03:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AnalyticsDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Analytics\\AnalyticsDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Analytics\\AnalyticsDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Analytics\\AnalyticsDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Analytics\\AnalyticsDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:02:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UrlResponseDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Url\\UrlResponseDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Url\\UrlResponseDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Url\\UrlResponseDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Url\\UrlResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:02:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateUrlDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Url\\CreateUrlDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Url\\CreateUrlDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Url\\CreateUrlDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Url\\CreateUrlDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:01:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:01:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "UrlShrt.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:00:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaginationRequest.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\PaginationRequest.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Common\\Models\\PaginationRequest.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\PaginationRequest.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Common\\Models\\PaginationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:56:47.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Common\\Models\\PagedResult.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\PagedResult.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Common\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:56:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Application\\Common\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Application\\Common\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "UrlShrt.Application\\Common\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:56:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUserAgentParser.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IUserAgentParser.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Services\\IUserAgentParser.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IUserAgentParser.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Services\\IUserAgentParser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:44:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IGeoLocationService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IGeoLocationService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Services\\IGeoLocationService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IGeoLocationService.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Services\\IGeoLocationService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:43:03.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\IEmailService.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:42:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Services\\ICacheService.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Services\\ICacheService.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Services\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:35:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IApiKeyRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IApiKeyRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Repositories\\IApiKeyRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IApiKeyRepository.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Repositories\\IApiKeyRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:35:12.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUrlClickRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IUrlClickRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Repositories\\IUrlClickRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IUrlClickRepository.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Repositories\\IUrlClickRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:34:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IUrlRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IUrlRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Repositories\\IUrlRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IUrlRepository.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Repositories\\IUrlRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:34:21.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Interfaces\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Interfaces\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:31:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:29:32.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\Plan.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Enums\\Plan.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\Plan.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Enums\\Plan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:29:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\DeviceType.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Enums\\DeviceType.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\DeviceType.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Enums\\DeviceType.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:28:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:28:14.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\Domain.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\Domain.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\Domain.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\Domain.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:27:35.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ApiKey.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ApiKey.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\ApiKey.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ApiKey.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\ApiKey.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:27:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:25:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UrlAnalytic.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\UrlAnalytic.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\UrlAnalytic.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\UrlAnalytic.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\UrlAnalytic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:25:13.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UrlClick.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\UrlClick.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\UrlClick.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\UrlClick.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\UrlClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:24:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ShortenedUrl.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ShortenedUrl.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\ShortenedUrl.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\ShortenedUrl.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\ShortenedUrl.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:18:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UrlShrt.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Backend\\UrlShrt\\UrlShrt.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "UrlShrt.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:17:51.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
