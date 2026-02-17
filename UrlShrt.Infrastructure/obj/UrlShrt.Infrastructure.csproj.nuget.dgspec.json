@@ -147,7 +147,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.Abstractions": {
+            "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[8.0.0, )"
             }
@@ -227,6 +227,10 @@
               "target": "Package",
               "version": "[4.15.0, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -266,6 +270,10 @@
             "MimeKit": {
               "target": "Package",
               "version": "[4.15.0, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.7.0, )"
             },
             "StackExchange.Redis": {
               "target": "Package",

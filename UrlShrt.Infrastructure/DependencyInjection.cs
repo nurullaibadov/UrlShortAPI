@@ -18,10 +18,8 @@ namespace UrlShrt.Infrastructure
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddInfrastructure(
-            this IServiceCollection services, IConfiguration config)
+        public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration config)
         {
-            // SQL Server DbContext
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(
                     config.GetConnectionString("DefaultConnection"),
@@ -29,7 +27,6 @@ namespace UrlShrt.Infrastructure
                            .EnableRetryOnFailure(3)
                            .CommandTimeout(30)));
 
-            // Identity — IdentityRole Microsoft.AspNetCore.Identity'den gelecek
             services.AddIdentity<ApplicationUser, IdentityRole>(options =>
             {
                 options.Password.RequiredLength = 8;
@@ -45,25 +42,21 @@ namespace UrlShrt.Infrastructure
             .AddEntityFrameworkStores<AppDbContext>()
             .AddDefaultTokenProviders();
 
-            // Redis Cache (fallback to in-memory)
             var redisConnection = config.GetConnectionString("Redis");
             if (!string.IsNullOrEmpty(redisConnection))
             {
-                services.AddStackExchangeRedisCache(options =>
-                    options.Configuration = redisConnection);
+                services.AddStackExchangeRedisCache(options => options.Configuration = redisConnection);
             }
             else
             {
                 services.AddDistributedMemoryCache();
             }
 
-            // Repositories
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IUrlRepository, UrlRepository>();
             services.AddScoped<IUrlClickRepository, UrlClickRepository>();
             services.AddScoped<IApiKeyRepository, ApiKeyRepository>();
 
-            // Services
             services.AddScoped<ICacheService, CacheService>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IEmailService, EmailService>();

@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using UrlShrt.Application.DTOs.Admin;
 using UrlShrt.Application.DTOs.ApiKey;
@@ -28,15 +29,15 @@ namespace UrlShrt.Application.Mappings
 
             // ShortenedUrl mappings
             CreateMap<ShortenedUrl, UrlResponseDto>()
-                .ForMember(d => d.Tags, o => o.MapFrom(s =>
-                    s.Tags != null
-                        ? JsonSerializer.Deserialize<List<string>>(s.Tags)
-                        : null));
+        .ForMember(d => d.Tags, o => o.MapFrom(s =>
+            s.Tags != null
+                ? JsonSerializer.Deserialize<List<string>>(s.Tags, (JsonSerializerOptions?)null)
+                : null));
 
             CreateMap<CreateUrlDto, ShortenedUrl>()
                 .ForMember(d => d.Tags, o => o.MapFrom(s =>
-                    s.Tags != null ? JsonSerializer.Serialize(s.Tags) : null))
-                .ForMember(d => d.Id, o => o.Ignore())
+                    s.Tags != null ? JsonSerializer.Serialize(s.Tags, (JsonSerializerOptions?)null) : null))
+                            .ForMember(d => d.Id, o => o.Ignore())
                 .ForMember(d => d.ShortCode, o => o.Ignore())
                 .ForMember(d => d.ShortUrl, o => o.Ignore())
                 .ForMember(d => d.TotalClicks, o => o.Ignore())

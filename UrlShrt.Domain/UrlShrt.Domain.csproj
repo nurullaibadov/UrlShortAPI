@@ -5,8 +5,6 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
-		<!-- Microsoft.AspNet.Identity.EntityFramework SİLİNDİ -->
-		<!-- Domain katmanı hiçbir pakete bağımlı olmamalı -->
-		<PackageReference Include="Microsoft.AspNetCore.Identity.Abstractions" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="8.0.0" />
 	</ItemGroup>
 </Project>

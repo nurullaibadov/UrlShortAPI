@@ -2,14 +2,17 @@ using Asp.Versioning;
 using AspNetCoreRateLimit;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Serilog;
 using Serilog.Events;
 using System.Text;
 using UrlShrt.API.Middleware;
+using UrlShrt.Application;
 using UrlShrt.Application.Interfaces;
 using UrlShrt.Domain.Entities;
+using UrlShrt.Infrastructure;
 using UrlShrt.Infrastructure.Data;
 using UrlShrt.Infrastructure.Data.Seeders;
 using UrlShrt.Infrastructure.Services.AppServices;
@@ -177,13 +180,18 @@ try
     var app = builder.Build();
 
     // ─── Database Migration & Seed ──────────────────────────────────────────────
+    // GEÇİCİ OLARAK KAPALI - DataSeeder'da hata varsa açma
     using (var scope = app.Services.CreateScope())
     {
         var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-        var userManager = scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-        var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
         await db.Database.MigrateAsync();
-        await DataSeeder.SeedAsync(db, userManager, roleManager);
+
+        // DataSeeder'ı test etmek için aç/kapat
+        // await DataSeeder.SeedAsync(
+        //     db, 
+        //     scope.ServiceProvider.GetRequiredService<UserManager<ApplicationUser>>(),
+        //     scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>()
+        // );
     }
 
     // ─── Middleware Pipeline ────────────────────────────────────────────────────

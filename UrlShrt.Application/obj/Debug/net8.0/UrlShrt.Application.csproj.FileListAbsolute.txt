@@ -1,0 +1,16 @@
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.csproj.AssemblyReference.cache
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.AssemblyInfoInputs.cache
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.AssemblyInfo.cs
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.csproj.CoreCompileInputs.cache
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.sourcelink.json
+C:\Backend\UrlShrt\UrlShrt.Application\bin\Debug\net8.0\UrlShrt.Application.deps.json
+C:\Backend\UrlShrt\UrlShrt.Application\bin\Debug\net8.0\UrlShrt.Application.dll
+C:\Backend\UrlShrt\UrlShrt.Application\bin\Debug\net8.0\UrlShrt.Application.pdb
+C:\Backend\UrlShrt\UrlShrt.Application\bin\Debug\net8.0\UrlShrt.Domain.dll
+C:\Backend\UrlShrt\UrlShrt.Application\bin\Debug\net8.0\UrlShrt.Domain.pdb
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt..4208903F.Up2Date
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.dll
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\refint\UrlShrt.Application.dll
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\UrlShrt.Application.pdb
+C:\Backend\UrlShrt\UrlShrt.Application\obj\Debug\net8.0\ref\UrlShrt.Application.dll

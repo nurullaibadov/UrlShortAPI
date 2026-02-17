@@ -13,16 +13,9 @@ namespace UrlShrt.Application
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
-            // AutoMapper
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
-
-            // FluentValidation
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-
-            // MediatR
-            services.AddMediatR(cfg =>
-                cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
-
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
             return services;
         }
     }
